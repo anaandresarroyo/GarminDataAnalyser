@@ -1,4 +1,4 @@
-name: garmin
+name: fitanalyser
 channels:
   - defaults
 dependencies:
@@ -97,5 +97,4 @@ dependencies:
   - zlib=1.2.11=h62dcd97_3
   - pip:
     - fitparse==1.1.0
-prefix: C:\Users\anaaa\.conda\envs\garmin
 

@@ -1,4 +1,4 @@
-name: garmin
+name: fitanalyser
 channels:
   - defaults
 dependencies:

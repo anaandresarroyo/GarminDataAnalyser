@@ -15,13 +15,13 @@ This repository contains Python code to analyse data recorded with Garmin device
 `conda env create -f environment.yml`
 
 - Activate the environment: 
-`conda activate garmin`
+`conda activate fitanalyser`
 
 ## Conda commands
 
 - Create new blank environment: 
 ```
-conda create --name garmin python=3.8
+conda create --name fitanalyser python=3.8
 ```
 
 - Create new environment from file:
@@ -31,7 +31,7 @@ conda env create -f environment.yml
 
 - Activate environment:
 ```
-conda activate garmin
+conda activate fitanalyser
 ```
 
 - Update and prune envionment (from within):
