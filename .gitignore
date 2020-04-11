@@ -1,0 +1,13 @@
+# Pycharm project files
+.idea/
+
+# Local package cache files
+src/fitanalyser/__pycache__/
+src/fitanalyser.egg-info/
+
+# Jupyter notebook check points
+notebooks/.ipynb_checkpoints/
+
+# Directories in the repository
+data/
+figures/
