@@ -17,6 +17,9 @@ This repository contains Python code to analyse data recorded with Garmin device
 - Activate the environment: 
 `conda activate fitanalyser`
 
+- Install the local package in edit mode:
+`pip install -e .`
+
 ## Conda commands
 
 - Create new blank environment: 
