@@ -1,0 +1,12 @@
+name: garmin
+channels:
+  - defaults
+dependencies:
+  - python =3.8         # python
+  - pip >=20.0          # python package manager
+  - numpy >= 1.18       # numeric arrays
+  - pandas >= 1.0       # data frames
+  - matplotlib          # basic plotting
+  - jupyter             # notebooks
+  - pip:
+    - fitparse >=1.1    # parsing garmin fit files
