@@ -44,5 +44,5 @@ conda env update --file environment.in.yml --prune
 
 - Save the environment to yml (from within):
 ```
-conda env export > environment.yml
+conda env export > environment.yml --no-builds
 ```
