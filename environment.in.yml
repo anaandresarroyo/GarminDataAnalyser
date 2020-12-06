@@ -12,5 +12,6 @@ dependencies:
   - pandas >=1.1        # data frames
   - matplotlib >=3.3    # basic plotting  
   - folium >=0.11       # map visualisations
+  - pyprojroot >=0.2    # finding project directories
   - pip:
     - fitparse >=1.2    # parsing garmin fit files
