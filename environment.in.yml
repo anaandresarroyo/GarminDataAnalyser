@@ -4,13 +4,13 @@ channels:
   - defaults
 dependencies:
   - python =3.8         # python
-  - pip >=20.0          # python package manager
-  - setuptools >=46.1   # set up local package
+  - pip >=20.3          # python package manager
+  - setuptools >=49.1   # set up local package
   - jupyter >= 1.0      # notebooks
-  - tqdm >=4.44         # progress bar
-  - numpy >=1.18        # numeric arrays
-  - pandas >=1.0        # data frames
-  - matplotlib >=3.1    # basic plotting  
-  - folium >=0.10       # map visualisations
+  - tqdm >=4.54         # progress bar
+  - numpy >=1.19        # numeric arrays
+  - pandas >=1.1        # data frames
+  - matplotlib >=3.3    # basic plotting  
+  - folium >=0.11       # map visualisations
   - pip:
-    - fitparse >=1.1    # parsing garmin fit files
+    - fitparse >=1.2    # parsing garmin fit files

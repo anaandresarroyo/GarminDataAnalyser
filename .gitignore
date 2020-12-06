@@ -1,12 +1,16 @@
 # Pycharm project files
 .idea/
 
+# VSCode workspace
+*.code-workspace
+*.vscode
+
 # Local package cache files
-src/fitanalyser/__pycache__/
-src/fitanalyser.egg-info/
+*.pyc
+*.egg-info
 
 # Jupyter notebook check points
-notebooks/.ipynb_checkpoints/
+*/.ipynb_checkpoints/
 
 # Directories in the repository
 data/

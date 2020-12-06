@@ -29,7 +29,7 @@ conda create --name fitanalyser python=3.8
 
 - Create new environment from file:
 ```
-conda env create -f environment.yml
+conda env create -f environment.in.yml
 ```
 
 - Activate environment:
