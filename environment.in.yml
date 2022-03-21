@@ -7,6 +7,7 @@ dependencies:
   - pip >=20.3          # python package manager
   - setuptools >=49.1   # set up local package
   - jupyter >= 1.0      # notebooks
+  - jupyterlab >=3.3    # notebooks
   - tqdm >=4.54         # progress bar
   - numpy >=1.19        # numeric arrays
   - pandas >=1.1        # data frames
