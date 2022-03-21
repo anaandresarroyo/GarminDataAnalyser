@@ -59,8 +59,8 @@ if __name__ == "__main__":
 
     # Get the location of the .fit and .csv files.
     project_root = here()
-    fit_dir = Path(project_root / 'data' / 'lisbon' / 'fit')
-    csv_dir = Path(project_root / 'data' / 'lisbon' / 'csv')
+    fit_dir = Path(project_root / 'data' / 'lisboa' / 'fit')
+    csv_dir = Path(project_root / 'data' / 'lisboa' / 'csv')
 
     # All items in fit_dir should be .fit files.
     for fit_file_path in fit_dir.iterdir():
